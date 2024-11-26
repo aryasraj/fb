@@ -1,0 +1,164 @@
+.header {
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+body {
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif
+}
+
+.logo {
+    width: 50%;
+    padding-top: 32px;
+    float: left
+}
+
+.login {
+    width: 50%;
+    float: left;
+    color: white;
+    padding-top: 10px
+}
+
+.logo-text {
+
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+
+
+
+}
+
+.login-label {
+    color: #fff;
+    font-size: 11px;
+}
+
+.login-controls {
+    margin-left: 115px;
+
+}
+
+.forgotten {
+    color: #9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+}
+
+.sub-btn {
+    background-color: #4267b2;
+    color: #fff;
+    cursor: pointer;
+    height: 20px;
+    border-color: #29487d;
+}
+
+.sub-btn:hover {
+    background-color: #3b5998;
+}
+
+.left-section {
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+
+}
+
+.right-section {
+    width: 50%;
+    float: left;
+
+}
+
+.main-body {
+    width: 100%;
+    height: 500px;
+    background: linear-gradient(white, #d3d8e8);
+
+
+}
+
+.image {
+    width: 581px;
+}
+
+.para {
+    font-weight: bold;
+    font-size: 21px;
+}
+
+
+.short-para {
+
+    font-weight: bold;
+}
+
+.table {
+    width: 100%;
+}
+
+.first,
+.first1 {
+    border-radius: 4px;
+    height: 20px;
+    width: 100px;
+    margin-right: 10px;
+    border-color: #fff;
+}
+
+.second {
+    border-radius: 4px;
+    height: 20px;
+
+    width: 350px;
+    /* Ensures it scales within its cell */
+    border-color: #fff;
+}
+
+.birthday {
+    color: grey;
+
+    font-size: 13px
+}
+
+.select {
+
+    border-color: #fff;
+}
+
+.style {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.para2 {
+    font-size: 12px;
+}
+
+.color {
+    color: #3b5998;
+    text-decoration: none
+}
+
+.button {
+    background-color: green;
+    color: white;
+    width: 180px;
+    height: 35px;
+    border-radius: 8px;
+    border-top-color: grey;
+    border-bottom-color: greenyellow;
+    border-right-color: darkgrey;
+    margin-left: 6px;
+}
+
+.para3 {
+    font-size: 11px;
+}
